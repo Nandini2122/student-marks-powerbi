@@ -17,7 +17,7 @@ Contains students' marks across multiple subjects.
 
 
 🚀 How to Use
-Download the .pbix file (if available).
+Download the .pbix file.
 Open it in Power BI Desktop.
 Navigate through filters and visualizations.
 Replace the dataset with your own to perform similar analysis.
